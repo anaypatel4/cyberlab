@@ -64,7 +64,7 @@ Open **Command Prompt** and type:
 ip a
 ```
 
-![Kali Installation](./images/checkip.png)
+![Check IP addresses](./images/checkip.png)
 
 ---
 
@@ -78,5 +78,20 @@ In Terminal, run:
 
 ```bash
 ping [Destination_IP]
+```
+![Windows ping](./images/ping_windows.png)
+![Kali ping](./images/ping_kali.png)
 
+---
+
+## ✅ Conclusion
+
+With both Windows 11 and Kali Linux successfully installed and networked in UTM on macOS, you now have a flexible and secure home cyber lab environment. This setup allows you to:
+
+- Practice ethical hacking and penetration testing  
+- Analyze vulnerabilities in a safe environment  
+- Test tools like Nmap, Metasploit, Wireshark, and more  
+- Build a strong foundation in cybersecurity skills  
+
+Happy hacking! 🔐
 
