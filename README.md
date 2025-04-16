@@ -80,6 +80,7 @@ In Terminal, run:
 ping [Destination_IP]
 ```
 ![Windows ping](./images/ping_windows.png)
+
 ![Kali ping](./images/ping_kali.png)
 
 ---
