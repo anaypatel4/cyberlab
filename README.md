@@ -43,10 +43,14 @@ This guide outlines the step-by-step process of creating a virtual lab environme
 2. Choose **Virtualize** > **Linux**.
 3. Load the Kali Linux ISO and assign resources.
 4. Complete the installation steps for Kali.
+
+![Kali Installation](./images/kali_installation.png)
+
+5. After installing Kali update it using the command:
 ```bash
 sudo apt-get update && apt-get upgrade -y
 ```
-![Kali Installation](./images/kali_installation.png)
+![Kali Installation](./images/kali_installation2.png)
 
 ---
 
